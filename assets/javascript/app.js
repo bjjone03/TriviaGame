@@ -1,10 +1,10 @@
 function setup() {
+window.alert(5+6);
+}
     
 
-    var timer = $('#timer');
-    timer.html('hello');
 
     
-    }
+    
 
     

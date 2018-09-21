@@ -2,7 +2,7 @@ body{
     background-color: blue;
     
 }
-div{
+#style{
     background-color: lightgrey;
     text-align: center;
     color: blue;
@@ -13,6 +13,10 @@ div{
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 400%;
-    
-    
+
 }
+footer{
+    background-color: lightgrey;
+}
+    
+    
